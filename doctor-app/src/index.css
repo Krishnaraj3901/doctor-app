@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Bungee+Spice&family=Castoro+Titling&family=Chakra+Petch:wght@300&family=Chivo+Mono:ital,wght@0,300;0,700;1,200&family=Cormorant+Garamond:ital,wght@1,500&family=Crimson+Text:ital@0;1&family=Dancing+Script&family=Dosis:wght@200&family=Gloria+Hallelujah&family=Indie+Flower&family=Kalam&family=Lato:wght@100&family=Monoton&family=Montserrat:ital,wght@0,100;0,500;1,200;1,300&family=Mynerve&family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;1,6..12,200&family=Paytone+One&family=Playfair+Display&family=Poiret+One&family=Poppins:ital,wght@0,200;0,300;1,400;1,600;1,800;1,900&family=Roboto+Condensed:ital@1&family=Roboto:ital,wght@0,100;0,300;0,500;1,100&family=Tilt+Neon&family=VT323&display=swap');
+
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Crimson Text', serif;
+}
